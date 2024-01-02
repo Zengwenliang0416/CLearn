@@ -1,6 +1,4 @@
 //
-//  main.c
-//  CLearn
 //
 //  Created by 曾文亮 on 2024/1/2.
 //
