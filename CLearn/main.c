@@ -4,10 +4,9 @@
 //
 
 #include <stdio.h>
-
+#include "practices/data-type-length/practice-2-1.h"
 int main(int argc, const char * argv[]) {
-    
-    // insert code here...
-    printf("Hello, World!\n");
+    printRange();
+    computeRange();
     return 0;
 }
